@@ -1,0 +1,1 @@
+java -jar PM5CLIEv2.jar %*
